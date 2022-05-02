@@ -1,0 +1,42 @@
+
+
+.head{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+
+    color: white;
+
+    align-items: left;
+    width: 200px;
+    margin-right: 90vh;
+
+    
+}
+
+.right-arrow{
+    background-color: rgb(27, 27, 27);
+    height: 100px;
+    width: 100px; 
+
+    text-align: center; 
+
+    align-items: center; 
+    justify-content: center;
+
+   
+    
+}
+
+.icon{
+    position:relative;
+    top: calc(25%); /* 50% - 3/4 of icon height */
+
+    color: white; 
+}
+
+
+
