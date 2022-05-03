@@ -13,6 +13,11 @@
     margin-left: 2rem;
     font-size: 2rem;
     background: none; 
+    color:white;
+}
+
+.menu-bars:hover{
+    color:white; 
 }
 
 .nav-menu{
@@ -56,6 +61,7 @@
 
 .nav-text a:hover{
     background-color: #1a83ff;
+    
 }
 
 .nav-menu-items{
@@ -70,6 +76,7 @@
     display: flex; 
     justify-content:start; 
     align-items: center;
+    color:white; 
 }
 
 span{

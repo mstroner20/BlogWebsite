@@ -16,8 +16,14 @@ function Home() {
       
     <div className='title'><h1>Blind's 75<br></br> Leetcode Questions</h1></div>
     <div className='right-arrow'> 
-      <div className='icon'><FaIcons.FaArrowRight onClick={<Link to={'./Array.js'}></Link>}/></div>
+      <div className='icon'> 
+        <Link to='#' className = 'right-arrow'>
+            <FaIcons.FaArrowRight onClick={'#'} />
+        </Link>
+        </div>
     </div>
+
+   
       
        
     </div>
